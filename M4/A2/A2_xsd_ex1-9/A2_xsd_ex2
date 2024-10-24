@@ -1,0 +1,10 @@
+Exercici 2.
+
+Anunciat:
+Definir un elemento llamado puertaCerrada de tipo lógico, que por defecto tenga el valor "falso",
+Y otro elemento llamado ventanaAbierta también de tipo lógico, que tenga asignado el valor fijo "verdadero"
+Escribir, solo, las definiciones de elementos simples correspondientes
+
+Resposta:
+<xs:element name="puertaCerrada" type="xs:boolean" default="false"/>
+<xs:element name="ventanaAbierta" type="xs:boolean" fixed="true"/>

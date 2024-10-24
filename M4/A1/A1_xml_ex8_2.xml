@@ -1,0 +1,20 @@
+<establecimientos>
+    <establecimiento>
+        <nombre>Bar Pasqual</nombre>
+        <tipo>Bar de tapes</tipo>
+        <direccion>Avenida Diagonal 232</direccion>
+        <propietario>Joan Alcover</propietario>
+    </establecimiento>
+    <establecimiento>
+        <nombre>Meravelles</nombre>
+        <tipo>Restaurant</tipo>
+        <direccion>Meridiana 111</direccion>
+        <propietario>Maria García</propietario>
+    </establecimiento>
+    <establecimiento>
+        <nombre>Racó de l'Àvia</nombre>
+        <tipo>Restaurant</tipo>
+        <direccion>Av. Roma 221</direccion>
+        <propietario>Alba Puig</propietario>
+    </establecimiento>
+</establecimientos>

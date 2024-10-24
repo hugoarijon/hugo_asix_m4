@@ -1,0 +1,21 @@
+<Empresa>
+  <Empleado NumEmpleado="1234567890">
+    <Apellido>Perez</Apellido>
+    <Nombre>Juan</Nombre>
+    <Email>juanperez@gmail.com</Email>
+    <Telefono>666 555 444</Telefono>
+    <Direccion Calle="Carrer de Pau Claris, 121">
+      <Ciudad CP="08009">Barcelona</Ciudad>
+    </Direccion>
+  </Empleado>
+</Empresa>
+
+<!--
+Las modificaciones en la estructura de los datos, 
+al convertir "Calle" en un atributo de "Dirección" 
+y "Ciudad" en un elemento con "CP" como atributo, 
+mejoran la organización y gestión de la información. 
+Estas decisiones permiten un acceso más eficiente 
+a los datos y mantienen una jerarquía lógica y clara 
+en la representación de la información.
+-->

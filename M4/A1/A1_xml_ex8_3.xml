@@ -1,0 +1,20 @@
+<obras_de_arte>
+    <obra>
+        <titulo>Azul sobre blanco</titulo>
+        <artista>Pere Àguila</artista>
+        <año>2014</año>
+        <material>Óleo</material>
+    </obra>
+    <obra>
+        <titulo>Gris oscuro</titulo>
+        <artista>Pere Àguila</artista>
+        <año>2010</año>
+        <material>Acuarela</material>
+    </obra>
+    <obra>
+        <titulo>Camino largo</titulo>
+        <artista>Marta Lambert</artista>
+        <año>1981</año>
+        <material>Mármol</material>
+    </obra>
+</obras_de_arte>

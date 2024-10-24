@@ -1,0 +1,5 @@
+<alumno>
+    <nombre>Juan García</nombre>
+    <fecha_de_nacimiento>2001-02-23</fecha_de_nacimiento>
+    <lugar_de_nacimiento>Barcelona</lugar_de_nacimiento>
+</alumno>

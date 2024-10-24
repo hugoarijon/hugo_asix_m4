@@ -1,0 +1,22 @@
+<persona>
+    <nombre>Pere Garcia</nombre>
+    <perro>
+        <nombre>Rufy</nombre>
+    </perro>
+</persona>
+
+Este fragmento de código es válido, pero no queda muy claro que el perro es de la persona. Para que se entienda mejor, sería buena idea poner el elemento del perro dentro de la etiqueta <persona>. Así, queda claro que Rufy es el perro de Pere.<persona>
+    
+    <nombre>Pere</nombre>
+    <apellido>Pérez</apellido>
+</persona>
+
+En este caso, el código es correcto, pero tiene un espacio extra en la etiqueta <apellido> que no es necesario. Aunque esto no afecta la funcionalidad del código, puede causar confusión al leerlo.
+
+    <persona>
+    <nombre>NombreEjemplo</nombre>
+    <apellido>Garcia</apellido>
+    <edad>22</edad>
+</persona>
+
+Este fragmento presenta un problema porque incluye una etiqueta <apellido2> que no es estándar, y también falta la etiqueta <nombre>. Esto hace que la representación de la persona quede incompleta y puede llevar a malentendidos.

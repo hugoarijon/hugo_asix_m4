@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<matricula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="A2_xsd_ex7.xsd">
+    <ciclo>Informática</ciclo>
+    <alumnos>
+        <alumno>
+            <nombre>Sergio</nombre>
+            <year>2024</year>
+            <asignaturas>
+                <asignatura>Matemàtiques</asignatura>
+                <asignatura>Programació</asignatura>
+            </asignaturas>
+        </alumno>
+        <alumno>
+            <nombre>Bernat</nombre>
+            <year>2024</year>
+            <asignaturas>
+                <asignatura>Llenguatges de marques</asignatura>
+                <asignatura>Ciberseguretat</asignatura>
+            </asignaturas>
+        </alumno>
+    </alumnos>
+</matricula>

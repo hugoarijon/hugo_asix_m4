@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<inversion xmlns:inv="http://www.ejemplo.com/inversion">
+    <inv:pais nombre="Francia">
+        <inv:capital>
+            Paris
+        </inv:capital>
+        <inv:capital>
+            1200M€
+        </inv:capital>
+    </inv:pais>
+</inversion>
