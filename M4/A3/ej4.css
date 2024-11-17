@@ -1,0 +1,11 @@
+.paddingObject {
+    margin-bottom: 50px;
+}
+
+table, th, tr, td{
+    border: 1px solid;
+}
+
+.big{
+    padding: 30px;
+}

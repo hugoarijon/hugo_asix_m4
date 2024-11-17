@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+
+span{
+    color: red;
+}
+
+.silver{
+    background-color: silver;
+}
+
+p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+
+#rightText{
+    text-align: right;
+    font-size: 20px;
+}

@@ -1,0 +1,30 @@
+a:link{
+    color: red;
+}
+
+a:visited{
+    color: purple;
+}
+
+a:hover{
+    color: green;
+    text-decoration: none;
+}
+a:active{
+    color: orange;
+}
+
+li{
+    font-size: 15px;
+}
+
+body{
+    background-color: yellow;
+    display: grid;
+}
+
+h1{
+    font-size: 30px;
+    color: orange;
+    margin: auto;
+}
